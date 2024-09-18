@@ -8,6 +8,6 @@ Esses projetos foram desenvolvidos solo, com ênfase na correção de bugs 🐛,
 🛠️ Ferramentas utilizadas: HTML, CSS, Bootstrap e JavaScript, sempre visando uma melhor mecânica e experiência de usuário.
 Agradeço especialmente ao professor Lucas Silva pelo suporte e orientações nessa jornada de Web Development! 🙌
 
-🔗 Link do CINEMA: 
+🔗 Link do CINEMA: https://mmaniezo.github.io/CP4-WebDev-Prj2/
 
 Let’s rock the future! 🎸
